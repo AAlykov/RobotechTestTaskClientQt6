@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.svg</file>
+        <file>img/connected.svg</file>
+        <file>img/notconnected.svg</file>
+        <file>img/notification.svg</file>
+        <file>img/settings.svg</file>
+        <file>qml/AppTheme.qml</file>
+        <file>qml/DrawerPinger.qml</file>
+        <file>qml/DrawerSettings.qml</file>
+        <file>qml/Helpers/Colors.qml</file>
+        <file>qml/Helpers/Constants.qml</file>
+        <file>qml/Helpers/qmldir</file>
+        <file>qml/Separator.qml</file>
+        <file>qml/main.qml</file>
+    </qresource>
+</RCC>
