@@ -1,0 +1,1 @@
+# RobotechTestTaskClientQt6
